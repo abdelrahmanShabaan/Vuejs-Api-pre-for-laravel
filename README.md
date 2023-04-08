@@ -1,6 +1,6 @@
 # vue-api
 
-## Project setup
+## Project setup :
 ```
 npm install
 ```
